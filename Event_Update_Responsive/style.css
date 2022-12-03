@@ -1,0 +1,30 @@
+.container-fluid1{
+    padding: 20px;
+    width: 900px;
+    height: 700px;
+    border: 2px solid black;
+    margin-top: 10px;
+    align-content: center;
+}
+.inside{
+   display: flex;
+   width: 750px;
+   height: 550px;
+   padding: 10px;
+   border: 1px solid black;
+}
+.left{
+    width: 200px;
+    height: 200px;
+    margin: 40px;
+    border: 1px solid black;
+}
+.right{
+    padding: 10px;
+}
+input{
+    margin-top: 5px;
+}
+h2, p{
+    text-align: center;
+}
